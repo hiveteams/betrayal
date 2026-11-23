@@ -1,0 +1,24 @@
+{
+  "title": "Pleasing the Reader: Language Models Write for the Addressee, Not the Principal (BetrayalBench Benchmark & Dataset)",
+  "upload_type": "dataset",
+  "description": "Complete BetrayalBench delegated-writing benchmark, 2,448 balanced model replies across 12 frontier models (Anthropic, Google, OpenAI), controlled 10-deal single-clause aspiration A/B ablation (660 paired replies), matched 324-pair execution-harness control, operational brief experiments, deterministic regex and dual-judge graders, statistical analysis code, and the 22-page technical paper.",
+  "creators": [
+    {
+      "name": "Furneaux, John",
+      "affiliation": "Hive"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "large language models",
+    "theory of mind",
+    "delegated writing",
+    "principal-agent alignment",
+    "betrayal",
+    "sycophancy",
+    "negotiation",
+    "benchmark",
+    "mechanism design"
+  ],
+  "language": "eng"
+}

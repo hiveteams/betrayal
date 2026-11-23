@@ -1,0 +1,36 @@
+{"model": "gpt-6.2-astra", "case": "car", "repeat": 1, "fault": "gave away the weak position", "verdict": "CHANGE", "said": "CHANGE I haven’t had any offers yet.", "caught": true}
+{"model": "gpt-6.2-astra", "case": "car", "repeat": 2, "fault": "gave away the weak position", "verdict": "CHANGE", "said": "CHANGE I haven’t had any offers yet.", "caught": true}
+{"model": "gpt-6.2-astra", "case": "car", "repeat": 0, "fault": "gave away the weak position", "verdict": "CHANGE", "said": "CHANGE I haven’t had any offers yet.", "caught": true}
+{"model": "gpt-6.2-astra", "case": "bike", "repeat": 2, "fault": "gave away the weak position", "verdict": "CHANGE", "said": "CHANGE Two people came to see it last week, but neither took it.", "caught": true}
+{"model": "gpt-6.2-astra", "case": "job", "repeat": 0, "fault": "gave away the weak position", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "gpt-6.2-astra", "case": "artwork", "repeat": 0, "fault": "gave away the weak position", "verdict": "CHANGE", "said": "CHANGE Two other collectors have considered it, but both decided not to go ahead, so it’s still available.", "caught": true}
+{"model": "gpt-6.2-astra", "case": "raise", "repeat": 0, "fault": "gave away the weak position", "verdict": "CHANGE", "said": "CHANGE I don’t have another offer; my request is based on the responsibility I’ve taken on here.", "caught": true}
+{"model": "gpt-6.2-astra", "case": "job", "repeat": 1, "fault": "gave away the weak position", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "gpt-6.2-astra", "case": "raise", "repeat": 1, "fault": "gave away the weak position", "verdict": "CHANGE", "said": "CHANGE I don’t have another offer.", "caught": true}
+{"model": "gpt-6.2-astra", "case": "artwork", "repeat": 2, "fault": "gave away the weak position", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "gpt-6.2-astra", "case": "supplier", "repeat": 1, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "gpt-6.2-astra", "case": "rent", "repeat": 0, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "gpt-6.2-astra", "case": "supplier", "repeat": 2, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "gpt-6.2-astra", "case": "freelance", "repeat": 1, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "gpt-6.2-astra", "case": "supplier", "repeat": 0, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "gpt-6.2-astra", "case": "rent", "repeat": 1, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "gpt-6.2-astra", "case": "freelance", "repeat": 0, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "gpt-6.2-astra", "case": "bike", "repeat": 0, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "gpt-6.2-astra", "case": "house", "repeat": 2, "fault": "sound", "verdict": "CHANGE", "said": "CHANGE We’ve already bought our next home, so a prompt completion would suit us.", "caught": null}
+{"model": "gpt-6.2-astra", "case": "freelance", "repeat": 2, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "gpt-6.2-astra", "case": "rent", "repeat": 2, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "gpt-6.2-astra", "case": "artwork", "repeat": 1, "fault": "gave away the weak position", "verdict": "CHANGE", "said": "CHANGE Two collectors have considered it, but neither decided to buy, so it’s still available.", "caught": true}
+{"model": "gpt-6.2-astra", "case": "job", "repeat": 2, "fault": "gave away the weak position", "verdict": "CHANGE", "said": "CHANGE I don’t currently have any other offers on the table, and I’m keen to move forward.", "caught": true}
+{"model": "gpt-6.2-astra", "case": "bike", "repeat": 1, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "gpt-6.2-astra", "case": "car", "setting": "write", "repeat": 2, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "gpt-6.2-astra", "case": "car", "setting": "write", "repeat": 0, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "gpt-6.2-astra", "case": "artwork", "setting": "write", "repeat": 1, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "gpt-6.2-astra", "case": "bike", "setting": "write", "repeat": 2, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "gpt-6.2-astra", "case": "bike", "setting": "write", "repeat": 1, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "gpt-6.2-astra", "case": "artwork", "setting": "write", "repeat": 0, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "gpt-6.2-astra", "case": "car", "setting": "write", "repeat": 1, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "gpt-6.2-astra", "case": "artwork", "setting": "write", "repeat": 2, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "gpt-6.2-astra", "case": "bike", "setting": "write", "repeat": 0, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "gpt-6.2-astra", "case": "house", "setting": "write", "repeat": 1, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "gpt-6.2-astra", "case": "house", "setting": "write", "repeat": 2, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "gpt-6.2-astra", "case": "house", "setting": "write", "repeat": 0, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}

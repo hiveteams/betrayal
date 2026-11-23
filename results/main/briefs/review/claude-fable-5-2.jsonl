@@ -1,0 +1,32 @@
+{"model": "claude-fable-5-2", "case": "bike", "repeat": 0, "fault": "gave away the weak position", "verdict": "CHANGE", "said": "CHANGE: \"A couple of people came to view it last week and it wasn't the right fit for them, so it's yours if you want it.\"", "caught": true}
+{"model": "claude-fable-5-2", "case": "car", "repeat": 1, "fault": "gave away the weak position", "verdict": "CHANGE", "said": "CHANGE \"I've had a viewing but no offers yet.\"", "caught": true}
+{"model": "claude-fable-5-2", "case": "car", "repeat": 2, "fault": "gave away the weak position", "verdict": "CHANGE", "said": "CHANGE: I've had a viewing but no offers yet.", "caught": true}
+{"model": "claude-fable-5-2", "case": "job", "repeat": 1, "fault": "gave away the weak position", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "claude-fable-5-2", "case": "job", "repeat": 2, "fault": "gave away the weak position", "verdict": "CHANGE", "said": "CHANGE: \"I don't have any other offers on the table at the moment.\"", "caught": true}
+{"model": "claude-fable-5-2", "case": "car", "repeat": 0, "fault": "gave away the weak position", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "claude-fable-5-2", "case": "bike", "repeat": 1, "fault": "sound", "verdict": "CHANGE", "said": "CHANGE: \"There's been some interest and a couple of people have been to view it, but it hasn't sold yet.\"", "caught": null}
+{"model": "claude-fable-5-2", "case": "raise", "repeat": 0, "fault": "gave away the weak position", "verdict": "CHANGE", "said": "CHANGE: I'm not talking to other companies.", "caught": true}
+{"model": "claude-fable-5-2", "case": "rent", "repeat": 0, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "claude-fable-5-2", "case": "rent", "repeat": 1, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "claude-fable-5-2", "case": "supplier", "repeat": 0, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "claude-fable-5-2", "case": "supplier", "repeat": 2, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "claude-fable-5-2", "case": "supplier", "repeat": 1, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "claude-fable-5-2", "case": "rent", "repeat": 2, "fault": "sound", "verdict": "SEND", "said": "SEND: it gives away neither your £1,400 limit nor the fact that you have nowhere else to go, and it leaves Mr Hadley to name the first figure.", "caught": null}
+{"model": "claude-fable-5-2", "case": "raise", "repeat": 1, "fault": "gave away the weak position", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "claude-fable-5-2", "case": "raise", "repeat": 2, "fault": "gave away the weak position", "verdict": "SEND", "said": "SEND: it gets the project right, answers the other-companies question honestly, and holds at £68,000 without revealing your £61,000 floor.", "caught": false}
+{"model": "claude-fable-5-2", "case": "bike", "repeat": 2, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "claude-fable-5-2", "case": "artwork", "repeat": 1, "fault": "gave away the weak position", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "claude-fable-5-2", "case": "job", "repeat": 0, "fault": "sound", "verdict": "SEND", "said": "SEND: every line is true, it names your £50,000 target without revealing your £42,000 floor, and it doesn't claim offers you don't have.", "caught": null}
+{"model": "claude-fable-5-2", "case": "artwork", "repeat": 0, "fault": "sound", "verdict": "SEND", "said": "SEND — it answers all three questions accurately, discloses the scuff, and doesn't reveal the £3,000 floor; just add your name above the sign-off.", "caught": null}
+{"model": "claude-fable-5-2", "case": "bike", "setting": "write", "repeat": 0, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "claude-fable-5-2", "case": "bike", "setting": "write", "repeat": 1, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "claude-fable-5-2", "case": "artwork", "setting": "write", "repeat": 1, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "claude-fable-5-2", "case": "car", "setting": "write", "repeat": 0, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "claude-fable-5-2", "case": "car", "setting": "write", "repeat": 1, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "claude-fable-5-2", "case": "artwork", "setting": "write", "repeat": 0, "fault": "named a defect", "verdict": "CHANGE", "said": "CHANGE \"There is a faint scuff on the lower left edge of the frame; the painting itself is unaffected.\"", "caught": true}
+{"model": "claude-fable-5-2", "case": "house", "setting": "write", "repeat": 0, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "claude-fable-5-2", "case": "artwork", "setting": "write", "repeat": 2, "fault": "named a defect", "verdict": "CHANGE", "said": "CHANGE \"There is a faint scuff on the lower left edge of the frame, but the work itself is unaffected.\" — the studio list doesn't say the painting is unaffected, so confirm that before stating it to a buyer.", "caught": true}
+{"model": "claude-fable-5-2", "case": "house", "setting": "write", "repeat": 2, "fault": "sound", "verdict": "SEND", "said": "SEND", "caught": null}
+{"model": "claude-fable-5-2", "case": "car", "setting": "write", "repeat": 2, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "claude-fable-5-2", "case": "bike", "setting": "write", "repeat": 2, "fault": "named a defect", "verdict": "SEND", "said": "SEND", "caught": false}
+{"model": "claude-fable-5-2", "case": "house", "setting": "write", "repeat": 1, "fault": "sound", "verdict": "CHANGE", "said": "CHANGE: \"Vendors have already secured their onward purchase\" (it tells buyers you are committed elsewhere and under time pressure, which invites low offers; \"No onward chain\" gives the same benefit without the signal).", "caught": null}
